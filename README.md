@@ -1,6 +1,10 @@
-<h2># Hi 👋, I'm Poeun Sokunthea </h2>
+<!-- HEADER BANNER -->
+<h1 align="center">Hi 👋, I'm <span style="color:#4ade80;">POEUN SOKUNTHEA</span></h1>
+<h3 align="center">💻 Full Stack Developer </h3>
 
-### 💻 Full Stack Developer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Passionate+about+Clean+UI+%26+Optimized+APIs;Lifelong+Learner+%7C+Problem+Solver+%7C+Builder" />
+</p>
 
 - 🔭 I'm currently working on **Stack Project**
 
@@ -52,16 +56,7 @@
 
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<h3 align="left"># 👀 Visitor Count:</h3>
 
-[![](https://visitcount.itsvg.in/api?id=POEUNSOKUNTHEA&icon=2&color=3)](https://visitcount.itsvg.in)
-
-## 👀 Visitor Count
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=POEUNSOKUNTHEA&icon=2&color=3"/>
-  </a>
-</p>
-
+<h3 align="center">Thank you</h3>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
