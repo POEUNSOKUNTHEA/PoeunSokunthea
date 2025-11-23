@@ -38,9 +38,12 @@
 
 
 <h3 align="left"> # 📊 GitHub Stats:</h3>
-![](https://github-readme-stats.vercel.app/api?username=POEUNSOKUNTHEA&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=POEUNSOKUNTHEA&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=POEUNSOKUNTHEA&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=POEUNSOKUNTHEA&show_icons=true&theme=highcontrast)
+![Streak](https://streak-stats.demolab.com?user=POEUNSOKUNTHEA&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=POEUNSOKUNTHEA&layout=compact&theme=highcontrast)
+
 
 <h3 align="left">## 🏆 GitHub Trophies:</h3>
 ![](https://github-profile-trophy.vercel.app/?username=POEUNSOKUNTHEA&theme=merko&no-frame=false&no-bg=false&margin-w=4)
