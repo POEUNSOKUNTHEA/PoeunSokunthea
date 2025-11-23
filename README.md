@@ -37,18 +37,31 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=plastic&logo=framework7&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
 
 <h3 align="left"> # 📊 GitHub Stats:</h3>
+
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=POEUNSOKUNTHEA&show_icons=true&theme=highcontrast)
 ![Streak](https://streak-stats.demolab.com?user=POEUNSOKUNTHEA&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=POEUNSOKUNTHEA&layout=compact&theme=highcontrast)
 
-<h3 align ="left"> ## 🏆 GitHub Trophies </h3>
+
+<h3 align ="left"> # 🏆 GitHub Trophies </h3>
+
 ![Trophy](https://github-profile-trophy.vercel.app/?username=POEUNSOKUNTHEA&theme=merko&margin-w=8)
 
-<h3 align="left">## ✍️ Random Dev Quote:</h3>
+<h3 align="left"># ✍️ Random Dev Quote:</h3>
+
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<h3 align="left">## 👀 Visitor Count:</h3>
+<h3 align="left"># 👀 Visitor Count:</h3>
+
 [![](https://visitcount.itsvg.in/api?id=POEUNSOKUNTHEA&icon=2&color=3)](https://visitcount.itsvg.in)
+
+## 👀 Visitor Count
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=POEUNSOKUNTHEA&icon=2&color=3"/>
+  </a>
+</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
