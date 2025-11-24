@@ -10,7 +10,7 @@
 
 - 🌱 I'm currently learning **GraphQL and Node.js**
 
-- 👯 I'm looking to collaborate on **open source project**
+- 👯 I'm looking to collaborate on **close source project**
 
 - 🤝 I'm looking for help with **learning system design**
 
