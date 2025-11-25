@@ -10,9 +10,9 @@
 
 - 🌱 I'm currently learning **GraphQL and Node.js**
 
-- 👯 I'm looking to collaborate on **close source project**
+- 👯 I'm looking to collaborate on **open source project**
 
-- 🤝 I'm looking for help with **learning system design**
+- 🤝 I'm looking for help with **learning system design and website**
 
 - 💬 Ask me about **React, Web UX/UI design and Web Development**
 
