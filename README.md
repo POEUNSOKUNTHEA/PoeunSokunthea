@@ -42,31 +42,20 @@
 
 <h3 align="left"> # 📊 GitHub Stats:</h3>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=POEUNSOKUNTHEA&show_icons=true&theme=highcontrast)
-![Streak](https://streak-stats.demolab.com?user=POEUNSOKUNTHEA&theme=highcontrast)
+![Top 5 Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=POEUNSOKUNTHEA&limit=5&theme=radical&combine_all_yearly_contributions=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=POEUNSOKUNTHEA&layout=compact&theme=highcontrast)
+![Stats](https://github-readme-stats.vercel.app/api?username=POEUNSOKUNTHEA&show_icons=true&theme=highcontrast)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Poeun%20Sokunthea&theme=dark&border_radius=5.1)](https://git.io/streak-stats)
 
 
 <h3 align ="left"> # 🏆 GitHub Trophies </h3>
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=POEUNSOKUNTHEA&theme=merko&margin-w=8)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=POEUNSOKUNTHEA&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <h3 align="left"># ✍️ Random Dev Quote:</h3>
 
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-
-📊 GitHub Stats
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Poeun%20Sokunthea&theme=dark&border_radius=5.1)](https://git.io/streak-stats)
-
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=POEUNSOKUNTHEA&theme=radical&no-frame=false&no-bg=false&margin-w=4" /> </p>
-✍️ Random Dev Quote
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </p>
-🔝 Top Contributed Repo
-<p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=POEUNSOKUNTHEA&limit=5&theme=radical&combine_all_yearly_contributions=true" /> </p>
-<p align="center"> <a href="https://visitcount.itsvg.in"> <img src="https://visitcount.itsvg.in/api?id=POEUNSOKUNTHEA&icon=1&color=2" /> </a> </p>
-
 
 
 <h3 align="center">Thank you</h3>
