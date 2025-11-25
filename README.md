@@ -56,6 +56,18 @@
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=POEUNSOKUNTHEA&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" /> <img src="https://nirzak-streak-stats.vercel.app/?user=POEUNSOKUNTHEA&theme=dark&hide_border=false" height="150" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=POEUNSOKUNTHEA&theme=dark&hide_border=false&layout=compact" height="150" /> </p>
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=POEUNSOKUNTHEA&theme=radical&no-frame=false&no-bg=false&margin-w=4" /> </p>
+✍️ Random Dev Quote
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </p>
+🔝 Top Contributed Repo
+<p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=POEUNSOKUNTHEA&limit=5&theme=radical&combine_all_yearly_contributions=true" /> </p>
+<p align="center"> <a href="https://visitcount.itsvg.in"> <img src="https://visitcount.itsvg.in/api?id=POEUNSOKUNTHEA&icon=1&color=2" /> </a> </p>
+
+
+
 <h3 align="center">Thank you</h3>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
