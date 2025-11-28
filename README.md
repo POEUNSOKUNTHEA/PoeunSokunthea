@@ -20,9 +20,6 @@
 
 - ⚡ Fun fact **I thing, I'm funny**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1D7kcCWCDZ3FW7XBslAwnKP2A96DkIVBs/view?usp=sharing](https://drive.google.com/file/d/1D7kcCWCDZ3FW7XBslAwnKP2A96DkIVBs/view?usp=sharing)**
-
-
 
 <h3 align="left"> ## 💫 About Me:</h3>
 🔥 Strong interest in modern web development, UI/UX, and system design<br><br>💼 Experienced with both frontend (React, Vue.js) and backend (ASP.NET Core, Node.js)<br><br>🧩 Love building clean UI, reusable components, and optimized APIs<br><br>🎯 Always improving: learning new tools, patterns, and better ways to write clean code<br><br>🤝 Team-oriented mindset — enjoy collaboration and problem-solving<br><br>🌱 Currently learning cloud deployment, CI/CD, and architecture patterns
