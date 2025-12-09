@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Passionate+about+Clean+UI+%26+Optimized+APIs;Lifelong+Learner+%7C+Problem+Solver+%7C+Builder" />
 </p>
 
-- 🔭 I'm currently working on **Stack Project**
+- 🔭 I'm currently working on **Full-Stact Project**
 
-- 🌱 I'm currently learning **GraphQL and Node.js**
+- 🌱 I'm currently learning **Nuxt.js and Vue.js**
 
 - 👯 I'm looking to collaborate on **open source project**
 
